@@ -10,7 +10,7 @@
 	display: inline-block;
 	padding: 0px;
 	margin: 0px;
-	font-size: 18px;
+	font-size: 30px;
 	color: white;
 
 }
@@ -52,8 +52,13 @@
 body {
 	background: url(https://raw.githubusercontent.com/HaydenSeward/HaydenSeward.github.io/master/stars-2880x1800-galaxy-4k-6362.jpg);
 	font-weight: bold;
+	text-color: white;
 
 }
 a:link {
 	 text-decoration: none;
+}
+p {
+	text-color: #ffffff;
+	text-decoration: none;
 }
