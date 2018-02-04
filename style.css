@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+#nav {
+	text-align: center;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+#nav li {
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	font-size: 18px;
+	color: white;
+
+}
+#nav li:hover {
+	color: #A8A8A8;	
+	background: #A8A8A8;
+	transition: background 0.25s;
+	transition: width 10px;
+} 
+#nav li a:link {
+	color: white;
+}
+#nav li a:visited {
+	color: white;
+}
+#Downloads {
+	padding: 0px;
+	margin: 0px;
+}
+#Downloads li {
+	font-size: 18px;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+#Downloads li:hover {
+	color: #A8A8A8;
+	font-size: 22px;
+	background: #A8A8A8;
+	transition: background 0.25s;
+	padding: 5px;
+}
+#Downloads li a:link {
+	color: white;
+}
+#Downloads li a:visited {
+	color: white;
+}
+body {
+	background: url(/home/hack/Downloads/stars-2880x1800-galaxy-4k-6362.jpg)
+;
+	font-weight: bold;
+
+}
+a:link {
+	 text-decoration: none;
+}
